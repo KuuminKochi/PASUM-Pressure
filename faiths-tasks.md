@@ -346,7 +346,7 @@ Expected Output
 	Your answer (1-4): 2
 
 Starting Point
-
+```cpp
 	#include <iostream>
 	#include <string>
 	using namespace std;
@@ -364,15 +364,5 @@ Starting Point
 	    cout << "Player answered option: " << answer << endl;
 	    return 0;
 	}
+```
 
-
----
-
-Summary Table
-
-Task	Function Name	Difficulty	Skills Used
-P1	displayBar	⭐ Easy	for loop, cout
-P2	displayWeekSummary	⭐ Easy	cout, if-else
-P3	getValidInput	⭐⭐ Medium	while loop, cin
-P4	displaySubjectMenu	⭐⭐ Medium	switch, functions
-P5	displayQuestion	⭐⭐ Medium	arrays, for loop
